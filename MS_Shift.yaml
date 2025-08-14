@@ -1,0 +1,9 @@
+path: /path/to/your/data/please/edit/me
+train: "images/train"
+val: "images/val"
+test: "images/test"
+
+nc: 1
+names: 
+  0: "lesion"
+ 
